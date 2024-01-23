@@ -6,10 +6,17 @@
 (defn init []
   (println (salmos.livro/getlivro "PSA_23_1")))
 
+
+;; armazenar esses valores na memoria do dispositivo/cookie
 (defonce cap 23)
 
 (defonce ver 1)
 
+;; pensar em mobile-first
+
+;; criar funcionalidade aos botões
+
+;; trabalhar o CSS
 (defn Application[] 
   [:div
 

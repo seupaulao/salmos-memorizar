@@ -2490,3 +2490,8 @@
 ;
 ;"ID" {:texto "TEXTO"}
 
+;
+; retirei o plugin do calva pois estava atrapalhando o desenvolvimento
+; não deixando apagar os parentesis ou colchetes no final da sentença
+;
+
