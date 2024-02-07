@@ -1,3 +1,8 @@
+### Projeto Salmo para memorizar - React, Reagent, ClojureScript
+
+- esse projeto é um webapp
+- NÃO destina-se a android ou iOS
+
 ### criar aplicação
 
 npx create-cljs-project my-project
