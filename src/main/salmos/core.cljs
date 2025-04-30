@@ -3,7 +3,7 @@
   (:require [reagent.dom :as dom])
   (:require [reagent.core :as r]))
 
-(def cap (r/atom 23))
+(def cap (r/atom 91))
 
 (def ver (r/atom 1))
 
